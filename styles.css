@@ -1,0 +1,21 @@
+body {
+    background: #FFF58A;
+}
+
+.container {
+    border: 1px solid black;
+    width: 95%;
+    height: 50vh;
+    display: flex;
+
+}
+
+.nouns {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    
+
+}
