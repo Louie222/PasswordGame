@@ -3,10 +3,14 @@ body {
 }
 
 .container {
-    border: 1px solid black;
-    width: 95%;
+    margin: 10vh 50vh;
+    border: 10px solid #B3BFFF;
+    width: auto;
     height: 50vh;
-    display: flex;
+    display: flex;               
+    background-color: #FFBBE1;
+    /* justify-content: center;
+    flex-direction: column; */
 
 }
 
@@ -17,5 +21,16 @@ body {
     text-align: center;
     margin: auto;
     
-
 }
+
+.nouns p {
+    font-size: 2rem;
+}
+
+.btn {
+    background-color: #DD7BDF;
+    width:auto;
+    margin: 20px; }
+    
+    
+
